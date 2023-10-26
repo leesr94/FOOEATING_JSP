@@ -49,18 +49,3 @@
 
 <br><br>
 
-## 트러블슈팅
-<details>
-  <summary>1</summary>
-  <div>
-    111
-  </div>
-</details>
-
-<details>
-  <summary>2</summary>
-  <div markdown="1">
-    222
-	</update>
-  </div>
-</details>
