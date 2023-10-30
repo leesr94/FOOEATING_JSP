@@ -1,7 +1,6 @@
 # FOOEATING
 ![fooeating](https://github.com/leesr94/FOOEATING_JSP/assets/131628924/0c3972ba-e693-434a-b004-800664e5c465)
 - 음식점 대기 예약 사이트
-- http://c7d2301t4.itwillbs.com/FOOEATING/Main.foo
 
 <br><br>
 
